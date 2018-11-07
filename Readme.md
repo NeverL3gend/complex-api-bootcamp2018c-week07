@@ -18,6 +18,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Memory Card Game:** http://zealous-lovelace-a5453e.netlify.com
 
-**NASA API:** http://upbeat-colden-c68b84.netlify.come
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**NASA API:** http://upbeat-colden-c68b84.netlify.com
